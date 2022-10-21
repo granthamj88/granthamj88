@@ -1,17 +1,34 @@
 
 
-<h1>Hi, I'm Charles!</h1>
+<h1>Hi, I'm Charles! <br/> <b>Web Devoloper</b></h1>
+
 <!--
 <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 -->
-<h2> (Portfolio is currently a work in progress) </h2>
-<h2> Current Project:</h2>
+<h2> Current Project: </h2>
+<b>This Portfolio</b>
+<h2> ---</h2>
+
 <h2> Capstones with Merit America:</h2>
+
+  - <b>[Vendo-Matic_800](https://github.com/granthamj88/Vendo-Matic_800-repo)</b> 
+  
+  - <b>[TEnmo-Banking](https://github.com/granthamj88/TEnmo-banking)</b>
+  
+  - <b>[Meal-Planner](https://github.com/granthamj88/Meal_planner)</b>
+    
+<h2> ---</h2>
+
 <h2> Web Development Projects:</h2>
+
+- <b>React.js</b> <br/>
+  - <b>[Tenzies](https://github.com/granthamj88/Tenzies)</b>
+
+
 <!--
 //buliton example
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 -->
 <h2> Certifications: </h2>
 <!-- 
