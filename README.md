@@ -1,10 +1,12 @@
 
 
-<h1 style="color:red;">Hi, I'm Charles!</h1>
+<h1>Hi, I'm Charles!</h1>
 <!--
 <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 -->
 <h2> (Portfolio is currently a work in progress) </h2>
+<h2> Current Project:</h2>
+<h2> Capstones with Merit America:</h2>
 <h2> Web Development Projects:</h2>
 <!--
 //buliton example
