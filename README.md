@@ -1,14 +1,6 @@
-<style>
-body {
-  background-color: linen;
-}
 
-h1 {
-  color: maroon;
-}
-</style>
 
-<h1 style>Hi, I'm Charles!</h1>
+<h1 style="color:red;">Hi, I'm Charles!</h1>
 <!--
 <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 -->
