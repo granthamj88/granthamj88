@@ -1,6 +1,12 @@
+<style>
 body {
-  background-color: red;
+  background-color: linen;
 }
+
+h1 {
+  color: maroon;
+}
+</style>
 
 <h1 style>Hi, I'm Charles!</h1>
 <!--
