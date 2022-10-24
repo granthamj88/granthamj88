@@ -7,7 +7,9 @@
 -->
 <h2> Current Project: </h2>
 
-<b>This Portfolio</b>
+- <b>[Js_Color_Tool](https://github.com/granthamj88/Js_Color_Tool)</b> 
+
+<b>(and This Portfolio)</b>
 
 <h2> ---</h2>
 
