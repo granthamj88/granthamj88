@@ -7,7 +7,7 @@
 -->
 <h2> Current Project: </h2>
 
-- <b>[Js_Color_Tool](https://github.com/granthamj88/Js_Color_Tool)</b> 
+- <b>[Color-Theory-Aid](https://github.com/granthamj88/Color-Theory-Aid)</b> 
 
 <b>(and This Portfolio)</b>
 
