@@ -7,7 +7,7 @@
 -->
 <h2> Current Project: </h2>
 
-- <b>[Color-Theory-Aid](https://github.com/granthamj88/Color-Theory-Aid)</b> 
+-  
 
 <b>(and This Portfolio)</b>
 
@@ -27,6 +27,9 @@
 
 - <b>React.js</b> <br/>
   - <b>[Tenzies](https://github.com/granthamj88/Tenzies)</b>
+
+- <b>JavaScript</b> <br/>
+  - <b>[Color-Filter-Aid](https://github.com/granthamj88/Color-Filter-Aid)</b>
 
 <h2> ---</h2>
 <!--
