@@ -5,11 +5,11 @@
 <!--
 <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 -->
-<h2> Current Project: </h2>
+<!-- <h2> Current Project: </h2>
 
 -  
 
-<b>(and This Portfolio)</b>
+<b>(and This Portfolio)</b> -->
 
 <h2> ---</h2>
 
@@ -25,10 +25,10 @@
 
 <h2> Web Development Projects:</h2>
 
-- <b>React.js</b> <br/>
-  - <b>[Tenzies](https://github.com/granthamj88/Tenzies)</b>
+<!-- - <b>React.js, HTML, CSS</b> <br/>
+  - <b>[Tenzies](https://github.com/granthamj88/Tenzies)</b> -->
 
-- <b>JavaScript</b> <br/>
+- <b>JavaScript, HTML, CSS</b> <br/>
   - <b>[Color-Filter-Aid](https://github.com/granthamj88/Color-Filter-Aid)</b>
 
 <h2> ---</h2>
