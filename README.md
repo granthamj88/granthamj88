@@ -15,11 +15,12 @@
 
 <h2> Capstones with Merit America:</h2>
 
-  - <b>[Vendo-Matic_800](https://github.com/granthamj88/Vendo-Matic_800-repo)</b> 
-  
-  - <b>[TEnmo-Banking](https://github.com/granthamj88/TEnmo-banking)</b>
-  
+- <b>React.js, Java, Postgres</b> <br/>
   - <b>[Meal-Planner](https://github.com/granthamj88/Meal_planner)</b>
+- <b>Java, postgres</b> <br/>
+  - <b>[TEnmo-Banking](https://github.com/granthamj88/TEnmo-banking)</b>
+- <b>Java</b> <br/>
+  - <b>[Vendo-Matic_800](https://github.com/granthamj88/Vendo-Matic_800-repo)</b>
     
 <h2> ---</h2>
 
